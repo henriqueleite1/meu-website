@@ -83,6 +83,7 @@ html{
 .home{
     display: flex;
     background: url(../img/4.4.jpg);
+    background-size: cover;
     height: 100vh;
     color: #fff;
     min-height: 500px;
